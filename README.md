@@ -119,6 +119,5 @@ Primera vez haciendo análisis de datos en Python
 
 **Correo:** jomirimo09@hotmail.com  
 **Teléfono:** +57 314 3650691  
-**GitHub:** [Tu usuario de GitHub]
 
 ---
