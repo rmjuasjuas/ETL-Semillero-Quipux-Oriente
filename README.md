@@ -1,3 +1,6 @@
+# link Colab 
+https://colab.research.google.com/drive/1iEZ3nUu_oa-30vMHJ4IKmNP29-9gzoeS?usp=sharing
+
 # ETL-Semillero-Quipux-Oriente
 Tarea: “ETL” Asignada en la clase del Semillero de Quipux, el día 8 de noviembre del año 2025.
 
